@@ -1,6 +1,4 @@
 click==6.6
-conda==4.1.11
-conda-env==2.5.0a0
 cycler==0.10.0
 Flask==0.11.1
 Flask-CLI==0.4.0
